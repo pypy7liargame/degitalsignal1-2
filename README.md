@@ -169,7 +169,17 @@ cv2.destroyAllWindows()
 - 参考にしたサイト
 
 [Python OpenCV3でガンマ変換 (輝度、色彩の調整)](https://www.blog.umentu.work/python-opencv3%E3%81%A7%E3%82%AC%E3%83%B3%E3%83%9E%E5%A4%89%E6%8F%9Bgamma-conversion-2/)
+> ガンマ変換のコードを一部引用・参照
 
 [Pythonの学習の過程とか](http://peaceandhilightandpython.hatenablog.com/entry/2016/02/05/004445)
+> ガンマ変換のコードを一部引用・参照
 
 [OpenCV 画像の平滑化](http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_filtering/py_filtering.html)
+> カラー画像用フィルタリングのコードを参照
+
+
+
+- youtube(実行の様子)
+[python 20180701 123844W](https://www.youtube.com/watch?v=pWTd6ietVAM)
+
+
